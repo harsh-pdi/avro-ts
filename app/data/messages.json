@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "email": "1@votercircle.in",
+        "message": "Test1",
+        "createdAt": "121224"
+    },
+    {
+        "id": 2,
+        "email": "2@votercircle.in",
+        "message": "Test2",
+        "createdAt": "121224"
+    },
+    {
+        "id": 3,
+        "email": "3@votercircle.in",
+        "message": "Test3",
+        "createdAt": "121224"
+    },
+    {
+        "id": 4,
+        "email": "4@votercircle.in",
+        "message": "Test4",
+        "createdAt": "121224"
+    }
+]
